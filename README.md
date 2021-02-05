@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 
 💡 Thank you for checking out my profile. I am a tech enthusiast. I love to explore new things and develop interactive websites. \
-😎 I am detail-oriented, self-driven personality with a zeal for creating beautiful projects. \
+💪 I am highly motivated, detail-oriented, self-driven engineer who is always trying to perfect and improve products. \
 🏔 I love nature, and I am inspired by scenic beauty. In my spare time, I enjoy travelling and long drives 🚘. \
 ✉️ Shoot me an email at saad@saadshaikh.dev to connect over a virtual coffee ☕️
 
