@@ -1,10 +1,11 @@
-## 👋 Hey there! I'm Saad
+## 👋 Hey there! I'm Saad!
 
 ### 👨🏻‍💻 About Me
 
 💡 Thank you for checking out my profile. I am a tech enthusiast. I love to explore new things and develop interactive websites. \
-🎓 I'm currently studying Full Stack Development at App Academy. \
-✉️ Shoot me an email at saad@saadshaikh.dev! and we can connect over a virtual coffee ☕️
+😎 I am detail-oriented, self-driven personality with a zeal for creating beautiful projects. \
+🏔 I love nature, and I am inspired by scenic beauty. In my spare time, I enjoy travelling and long drives 🚘. \
+✉️ Shoot me an email at saad@saadshaikh.dev to connect over a virtual coffee ☕️
 
 ### 🛠 Skills
 
