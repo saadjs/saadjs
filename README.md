@@ -61,6 +61,5 @@
 <p align="center">
 <a href="https://www.saadshaikh.dev"><img src="https://img.shields.io/badge/-saadshaikh.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/saadshaikh18"><img src="https://img.shields.io/badge/-Saad%20Shaikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/notThatSaad"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/notThatSaad?style=social"></a>
 <a href="mailto:saad@saadshaikh.dev"><img src="https://img.shields.io/badge/-saad@saadshaikh.dev-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
