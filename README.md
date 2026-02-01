@@ -8,7 +8,7 @@
 
 ### 🛠️ GitHub Language Stats
 
-![GitHub language stats](./assets/stats.svg)
+<img src="./assets/stats.svg" alt="GitHub language stats" width="400" />
 
 _Generated using `npx @saadjs/gh-stats`_
 
