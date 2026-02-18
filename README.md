@@ -8,9 +8,11 @@
 
 ### 🛠️ GitHub Language Stats
 
-<img src="./assets/stats.svg" alt="GitHub language stats" width="400" />
+| Past 7 days | All time |
+| --- | --- |
+| <img src="./assets/stats-7d.svg" alt="GitHub language stats past 7 days" width="420" /> | <img src="./assets/stats-all.svg" alt="GitHub language stats all time" width="420" /> |
 
-_Generated using `npx @saadjs/gh-stats`_
+_Generated using `npx @saadjs/gh-stats --source clone`_
 
 _Checkout project [saadjs/gh-stats](https://github.com/saadjs/gh-stats)_
 
