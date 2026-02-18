@@ -14,21 +14,38 @@
   <rect x="10" y="10" width="580" height="340" fill="none" stroke="#E7C9B8" stroke-width="1" rx="12" />
 
   <text x="24" y="34" font-size="16" fill="#2B1B12" font-weight="600">Top Languages</text>
-  <text x="576" y="34" font-size="11" fill="#6B4C3B" text-anchor="end">178 repos • 0 slices</text>
+  <text x="576" y="34" font-size="11" fill="#6B4C3B" text-anchor="end">178 repos • 6 slices</text>
   
 
-  <circle cx="185" cy="195" r="110" fill="#FDEDE4" stroke="#E7C9B8" stroke-width="1" />
+  <path d="M 185 85 A 110 110 0 0 1 233.38023702390194 293.789436001584 L 209.19011851195097 244.394718000792 A 55 55 0 0 0 185 140 Z" fill="#2F4B7C" stroke="#FDEDE4" stroke-width="1" /><path d="M 233.38023702390194 293.789436001584 A 110 110 0 0 1 75.10011875761857 190.30786797815097 L 130.0500593788093 192.65393398907548 A 55 55 0 0 0 209.19011851195097 244.394718000792 Z" fill="#665191" stroke="#FDEDE4" stroke-width="1" /><path d="M 75.10011875761857 190.30786797815097 A 110 110 0 0 1 85.69993599070335 147.67667290067627 L 135.34996799535168 171.33833645033812 A 55 55 0 0 0 130.0500593788093 192.65393398907548 Z" fill="#A05195" stroke="#FDEDE4" stroke-width="1" /><path d="M 85.69993599070335 147.67667290067627 A 110 110 0 0 1 108.07404218679862 116.37177978281868 L 146.53702109339932 155.68588989140935 A 55 55 0 0 0 135.34996799535168 171.33833645033812 Z" fill="#D45087" stroke="#FDEDE4" stroke-width="1" /><path d="M 108.07404218679862 116.37177978281868 A 110 110 0 0 1 126.14218441729491 102.07122326839614 L 155.57109220864746 148.53561163419806 A 55 55 0 0 0 146.53702109339932 155.68588989140935 Z" fill="#F95D6A" stroke="#FDEDE4" stroke-width="1" /><path d="M 126.14218441729491 102.07122326839614 A 110 110 0 0 1 184.99999999999997 85 L 185 140 A 55 55 0 0 0 155.57109220864746 148.53561163419806 Z" fill="#FF7C43" stroke="#FDEDE4" stroke-width="1" />
   <circle cx="185" cy="195" r="49" fill="#FFF7F2" />
   <text x="185" y="191" font-size="14" fill="#2B1B12" text-anchor="middle" font-weight="600">
-    No data
+    TypeScript
   </text>
   <text x="185" y="209" font-size="11" fill="#8A6A5A" text-anchor="middle">
-    0.0%
+    42.8%
   </text>
 
   <text x="360" y="64" font-size="11" fill="#8A6A5A" letter-spacing="1">DISTRIBUTION</text>
   
-    <text x="360" y="90" font-size="12" fill="#2B1B12">No language data</text>
+    <circle cx="360" cy="85" r="5" fill="#2F4B7C" />
+    <text x="374" y="90" font-size="12" fill="#2B1B12">TypeScript</text>
+    <text x="576" y="90" font-size="12" fill="#6B4C3B" text-anchor="end">42.8%</text>
+    <circle cx="360" cy="109" r="5" fill="#665191" />
+    <text x="374" y="114" font-size="12" fill="#2B1B12">JavaScript</text>
+    <text x="576" y="114" font-size="12" fill="#6B4C3B" text-anchor="end">32.9%</text>
+    <circle cx="360" cy="133" r="5" fill="#A05195" />
+    <text x="374" y="138" font-size="12" fill="#2B1B12">Dart</text>
+    <text x="576" y="138" font-size="12" fill="#6B4C3B" text-anchor="end">6.4%</text>
+    <circle cx="360" cy="157" r="5" fill="#D45087" />
+    <text x="374" y="162" font-size="12" fill="#2B1B12">Python</text>
+    <text x="576" y="162" font-size="12" fill="#6B4C3B" text-anchor="end">5.6%</text>
+    <circle cx="360" cy="181" r="5" fill="#F95D6A" />
+    <text x="374" y="186" font-size="12" fill="#2B1B12">CSS</text>
+    <text x="576" y="186" font-size="12" fill="#6B4C3B" text-anchor="end">3.3%</text>
+    <circle cx="360" cy="205" r="5" fill="#FF7C43" />
+    <text x="374" y="210" font-size="12" fill="#2B1B12">Other</text>
+    <text x="576" y="210" font-size="12" fill="#6B4C3B" text-anchor="end">9.0%</text>
 
   <text x="24" y="344" font-size="10" fill="#8A6A5A">Generated 2026-02-18</text>
 </svg>
