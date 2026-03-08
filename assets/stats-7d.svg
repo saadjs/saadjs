@@ -14,26 +14,29 @@
   <rect x="10" y="10" width="580" height="340" fill="none" stroke="#E7C9B8" stroke-width="1" rx="12" />
 
   <text x="24" y="34" font-size="16" fill="#2B1B12" font-weight="600">Top Languages</text>
-  <text x="576" y="34" font-size="11" fill="#6B4C3B" text-anchor="end">4 repos • 2 slices</text>
+  <text x="576" y="34" font-size="11" fill="#6B4C3B" text-anchor="end">5 repos • 3 slices</text>
   <text x="24" y="54" font-size="11" fill="#8A6A5A">Past 7 days</text>
 
-  <path d="M 185 85 A 110 110 0 1 1 121.02593438144919 105.51637620081898 L 153.0129671907246 150.25818810040948 A 55 55 0 1 0 185 140 Z" fill="#2F4B7C" stroke="#FDEDE4" stroke-width="1" /><path d="M 121.02593438144919 105.51637620081898 A 110 110 0 0 1 184.99999999999997 85 L 185 140 A 55 55 0 0 0 153.0129671907246 150.25818810040948 Z" fill="#665191" stroke="#FDEDE4" stroke-width="1" />
+  <path d="M 185 85 A 110 110 0 1 1 82.58143923772568 235.13026802033997 L 133.79071961886285 215.06513401017 A 55 55 0 1 0 185 140 Z" fill="#2F4B7C" stroke="#FDEDE4" stroke-width="1" /><path d="M 82.58143923772568 235.13026802033997 A 110 110 0 0 1 101.36670102456014 123.54741920346969 L 143.18335051228007 159.27370960173485 A 55 55 0 0 0 133.79071961886285 215.06513401017 Z" fill="#665191" stroke="#FDEDE4" stroke-width="1" /><path d="M 101.36670102456014 123.54741920346969 A 110 110 0 0 1 184.99999999999997 85 L 185 140 A 55 55 0 0 0 143.18335051228007 159.27370960173485 Z" fill="#A05195" stroke="#FDEDE4" stroke-width="1" />
   <circle cx="185" cy="195" r="49" fill="#FFF7F2" />
   <text x="185" y="191" font-size="14" fill="#2B1B12" text-anchor="middle" font-weight="600">
-    Swift
+    TypeScript
   </text>
   <text x="185" y="209" font-size="11" fill="#8A6A5A" text-anchor="middle">
-    90.1%
+    69.1%
   </text>
 
   <text x="360" y="64" font-size="11" fill="#8A6A5A" letter-spacing="1">DISTRIBUTION</text>
   
     <circle cx="360" cy="85" r="5" fill="#2F4B7C" />
-    <text x="374" y="90" font-size="12" fill="#2B1B12">Swift</text>
-    <text x="576" y="90" font-size="12" fill="#6B4C3B" text-anchor="end">90.1%</text>
+    <text x="374" y="90" font-size="12" fill="#2B1B12">TypeScript</text>
+    <text x="576" y="90" font-size="12" fill="#6B4C3B" text-anchor="end">69.1%</text>
     <circle cx="360" cy="109" r="5" fill="#665191" />
-    <text x="374" y="114" font-size="12" fill="#2B1B12">TypeScript</text>
-    <text x="576" y="114" font-size="12" fill="#6B4C3B" text-anchor="end">9.9%</text>
+    <text x="374" y="114" font-size="12" fill="#2B1B12">Swift</text>
+    <text x="576" y="114" font-size="12" fill="#6B4C3B" text-anchor="end">17.2%</text>
+    <circle cx="360" cy="133" r="5" fill="#A05195" />
+    <text x="374" y="138" font-size="12" fill="#2B1B12">Python</text>
+    <text x="576" y="138" font-size="12" fill="#6B4C3B" text-anchor="end">13.7%</text>
 
-  <text x="24" y="344" font-size="10" fill="#8A6A5A">Generated 2026-03-01</text>
+  <text x="24" y="344" font-size="10" fill="#8A6A5A">Generated 2026-03-08</text>
 </svg>
