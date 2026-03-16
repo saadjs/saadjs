@@ -6,16 +6,14 @@
 
 🔎 Building tools and chasing ideas by night.
 
-### 🛠️ GitHub Language Stats
+### ⚙️ What I Like Building
 
-| Past 7 days | All time |
-| --- | --- |
-| <img src="./assets/stats-7d.svg" alt="GitHub language stats past 7 days" width="420" /> | <img src="./assets/stats-all.svg" alt="GitHub language stats all time" width="420" /> |
-
-_Generated using `npx @saadjs/gh-stats --source clone`_
-
-_Checkout project [saadjs/gh-stats](https://github.com/saadjs/gh-stats)_
+- Small side projects that solve my personal problems
+- Agent workflows
+- Developer tooling, and CLIs
+- Automation, and clean DX
 
 ## 📫 Contact
 
-[Website](https://www.saad.sh/)
+- [Website](https://saad.sh/)
+- [LinkedIn](https://www.linkedin.com/in/saadbash)
